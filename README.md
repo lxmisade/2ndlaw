@@ -8,7 +8,7 @@ Calculates things based upon Newton's 2nd Law.
 
 More to come!
 
-## Contents (Planned
+## Contents (Planned)
 
 * Calculates the net force of opposite forces. Gives the mass or acceleration of the object if the other is given.
 * Diagonal forces calculator
